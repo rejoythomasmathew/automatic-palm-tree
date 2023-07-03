@@ -1,3 +1,3 @@
-# Building a better alternative for VerseView
+# Building a better alternative to VerseView
 
 All ideas and suggestions are welcome!
